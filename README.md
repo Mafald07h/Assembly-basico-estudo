@@ -20,3 +20,12 @@ Neste repositório, tento aprender o básico de assembly na arquitetura x86_64 d
       branch teste
 
 ```
+
+``` mermaid
+      xychart-beta
+            title "Gráfico de barras"
+            x-axis [jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez]
+            y-axis "Meses com mais commits" 0-->30
+            bar [0,10,15,20,12,14,16,20,13,28,10,16]
+            line [0,10,15,20,12,14,16,20,13,28,10,16]
+```
