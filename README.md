@@ -13,4 +13,8 @@ A linguagem serve para se entender com clareza como o computador funciona. Bási
 
 ## Código ASCII
 
-Código lançado em 1968 com o intuito de poder substituir o Baudot. O ASCII podia ter entre 0 e 127 valores, enquanto o Baudot possuia apenas 5 deles.
+Código lançado em 1968 com o intuito de poder substituir o Baudot. O ASCII podia ter entre 0 e 127 valores, enquanto o Baudot possuia apenas 5 deles. Desses 128 simbolos, cada um deles se dividem em duas categorias distintas
+
+- _Caracteres imprimiveis:_ (Letras,números,símbolos ...) São ao todo 96, que vai do 32 até o 127 símbolo
+
+- _Caracteres não imprimiveis:_ (salto, linha, ...) São 31 símbolos, que vai do 0 até o 31.
