@@ -7,6 +7,6 @@ A linguagem serve para se entender com clareza como o computador funciona. Bási
 
 ## Registradores
 
-- **Gerais:** Responsável pelo armazenamento de dados  da memória para o processador.
+- **Gerais:** Responsável pelo armazenamento de dados e a sua movimentação ocorre da memória para o processador.
 
 - **Especiais:** São utilizados em execuções de instruções.
