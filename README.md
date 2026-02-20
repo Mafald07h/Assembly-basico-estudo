@@ -34,3 +34,4 @@ Neste repositório, tento aprender o básico de assembly na arquitetura x86_64 d
 ## A coisa básica para se entender Assembly
 Os programas em assembly são para serem executados em microprocessadores
 >>>>>>> ddf0956 (Adicionar descrições ao README.md de assembly)
+A linguagem serve para se entender com clareza como o computador funciona.
