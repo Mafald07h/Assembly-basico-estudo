@@ -10,3 +10,7 @@ A linguagem serve para se entender com clareza como o computador funciona. Bási
 - **Gerais:** Responsável pelo armazenamento de dados e a sua movimentação ocorre da memória para o processador.
 
 - **Especiais:** São utilizados em execuções de instruções.
+
+## Código ASCII
+
+Código lançado em 1968 com o intuito de poder substituir o Baudot. O ASCII podia ter entre 0 e 127 valores, enquanto o Baudot possuia apenas 5 deles.
