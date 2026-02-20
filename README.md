@@ -3,5 +3,4 @@ Neste repositório, tento aprender o básico de assembly na arquitetura x86_64 d
 
 ## A coisa básica para se entender Assembly
 Os programas em assembly são para serem executados em microprocessadores
-A linguagem serve para se entender com clareza como o computador funciona.
-
+A linguagem serve para se entender com clareza como o computador funciona. Básicamente, a linguagem assembly possui alguns objetivos simples, o primeiro é a capacidade de se realizar operações matemáticas e também operações lógicas, mover dados do processador, realizar operações de entrada e saida e realizar controle e desvio de condicionais.
