@@ -19,4 +19,4 @@ Código lançado em 1968 com o intuito de poder substituir o Baudot. O ASCII pod
 
 - _Caracteres não imprimiveis:_ (salto, linha, ...) São 31 símbolos, que vai do 0 até o 31.
 
-isso comming
+its comming
